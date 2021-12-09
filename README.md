@@ -3,7 +3,9 @@
   ## 😎 Moon Jieun | 💻 BackEnd Engineer | 🇰🇷 Seoul, Korea
   
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2moon98@gmail.com)](mailto:s2moon98@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s2moon98/)](https://www.linkedin.com/in/s2moon98/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jieun-moon-b4a32b212/)](https://www.linkedin.com/in/jieun-moon-b4a32b212/)
+  
+  #### Visit My Tech Blog!
   [![Linkedin Badge](https://img.shields.io/badge/-tech_blog-black?style=flat-square&link=https://velog.io/@s2moon98)](https://velog.io/@s2moon98)
   
 </div>
