@@ -34,9 +34,3 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
-
-<div align="center">
-  
-![s2moon98's github stats](https://github-readme-stats.vercel.app/api/?username=s2moon98&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
-
-</div>
