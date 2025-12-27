@@ -6,7 +6,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jieun-moon-b4a32b212/)](https://www.linkedin.com/in/jieun-moon-b4a32b212/)
   
   #### Visit My Tech Blog!
-  [![Linkedin Badge](https://img.shields.io/badge/-tech_blog-black?style=flat-square&link=https://velog.io/@s2moon98)]([https://velog.io/@s2moon98](https://medium.com/@s2moon98))
+  [![Linkedin Badge](https://img.shields.io/badge/-tech_blog-black?style=flat-square&link=https://medium.com/@s2moon98)](https://medium.com/@s2moon98)
   
 </div>
 
