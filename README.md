@@ -3,9 +3,9 @@
 # 😎 Moon Jieun  
 ### 💻 Backend Engineer | 🇰🇷 Seoul, Korea
 
-📧 s2moon98@gmail.com  
-🔗 LinkedIn: jieun-moon-b4a32b212  
-✍️ Blog: medium.com/@s2moon98
+📧 **Email**: [s2moon98@gmail.com](mailto:s2moon98@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/jieun-moon-b4a32b212](https://www.linkedin.com/in/jieun-moon-b4a32b212/)  
+✍️ **Blog**: [medium.com/@s2moon98](https://medium.com/@s2moon98)
 
 </div>
 
